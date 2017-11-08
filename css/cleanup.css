@@ -24,6 +24,6 @@ div#wall div.parent div:last-child div#tag-6[id="tag-6"] {
   display: none;
 }
 
-body div#wall div.parent div > #tag-7.slick {
+body div#wall div.parent div > #tag-7.slick[id="tag-7"] {
   display: none;
 }
